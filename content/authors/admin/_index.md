@@ -1,5 +1,5 @@
 ---
-avatar_filename: passport_size_latest.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include computer vision, machine learning, autonomous
   driving, and medical imaging.
 interests:
