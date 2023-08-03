@@ -3,9 +3,9 @@ avatar_filename: passport_size_latest.jpg
 bio: My research interests include computer vision, machine learning, autonomous
   driving, and medical imaging.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Machine Learning
+  - Deep Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -52,4 +52,4 @@ title: Arpit Jadon
 first_name: Alice
 email: ""
 ---
-I completed my Master's in Computer Science from Saarland University and Max Planck Institute for Informatics (MPII) in April 2023. During my Master's, I was fortunate enough to work at prestigious German research institutes like German Research Center for AI and MPII. I have been working on different computer vision and machine learning problems since 2017 with applications in different fields like medical imaging and autonomous driving.
+I completed my Master's in Computer Science from Saarland University and Max Planck Institute for Informatics (MPII) in April 2023. During my Master's, I was fortunate enough to work at prestigious German research institutes like German Research Center for AI and MPII. I have been working on different computer vision and machine learning problems since 2017 with applications in multiple fields like medical imaging and autonomous driving. I am always interested in expanding my knowledge base and challenging myself with novel real-world computer vision problems.
