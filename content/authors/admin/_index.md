@@ -10,38 +10,29 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.in/citations?user=F6DEWz0AAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/arpit-jadon
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/arpitjadonamu/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Max Planck Institute for Informatics
+    url: https://www.mpi-inf.mpg.de/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Computer Science
+      institution: Saarland University
+      year: 2023
+    - course: BTech in Electrical Engineering
+      institution: ZHCET, AMU
+      year: 2015
 superuser: true
 status:
   icon: ☕️
@@ -52,4 +43,4 @@ title: Arpit Jadon
 first_name: Alice
 email: ""
 ---
-I completed my Master's in Computer Science from Saarland University and Max Planck Institute for Informatics (MPII) in April 2023. During my Master's, I was fortunate enough to work at prestigious German research institutes like German Research Center for AI and MPII. I have been working on different computer vision and machine learning problems since 2017 with applications in multiple fields like medical imaging and autonomous driving. I am always interested in expanding my knowledge base and challenging myself with novel real-world computer vision problems.
+I completed my Master's in Computer Science from Saarland University (Universität des Saarlandes) in April 2023. During that period, I was fortunate enough to work at prestigious German research institutes like German Research Center for AI (DFKI) and MPII (Max Planck Institute for Informatics). I have been working on different computer vision and machine learning problems since 2017 with applications in multiple fields like digital pathology, digital radiology, and autonomous driving, etc. I am always interested in expanding my knowledge base and challenging myself with novel real-world computer vision problems.
