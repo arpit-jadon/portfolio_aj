@@ -29,10 +29,10 @@ summary: Current fire alarms often struggle with the false triggering issue.
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 author_notes: []
-publication_short: https://arxiv.org/abs/1905.11922
+publication_short: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
-publication: https://arxiv.org/abs/1905.11922
+publication: ""
 featured: true
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
