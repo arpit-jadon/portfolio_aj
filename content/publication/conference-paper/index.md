@@ -29,22 +29,24 @@ summary: Current fire alarms often struggle with the false triggering issue.
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 author_notes: []
-publication_short: ""
+publication_short: https://arxiv.org/abs/1905.11922
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 publication: https://arxiv.org/abs/1905.11922
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 title: "FireNet: A Specialized Lightweight Fire & Smoke Detection Model for
   Real-Time IoT Applications"
-tags: []
+tags:
+  - https://arxiv.org/abs/1905.11922
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+  filename: featured.jpg
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: https://doi.org/10.48550/arXiv.1905.11922
