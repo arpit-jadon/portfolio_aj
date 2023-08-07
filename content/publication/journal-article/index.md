@@ -15,9 +15,8 @@ authors:
   - Arpit Jadon
   - Akshay Varshney
   - Mohammad Samar Ansari
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: Using MobileNetv2 to develop a computer vision algorithm for fast fire
+  detection on low-cost embedded hardware like Raspberry Pi.
 url_dataset: ""
 url_project: ""
 author_notes: []
