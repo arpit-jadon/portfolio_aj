@@ -23,9 +23,9 @@ authors:
   - Mohd. Omama
   - Akshay Varshney
   - Samar Ansari
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: Current fire alarms often struggle with the false triggering issue.
+  This paper tries to solve this problem by developing lightweight, hardware
+  deployable computer vision and machine learning algorithm.
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 author_notes: []
