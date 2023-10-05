@@ -45,9 +45,37 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: Computer Vision
           description: 90%
           icon: r-project
+          icon_pack: fab
+        - name: Machine Learning
+          description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: Autonomous Driving
+          description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: Medical Imaging
+          description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: Computational Fabrication
+          description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: Sensor Interfacing and Embedded Systems
+          description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: Python
+          description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: PyTorch 
+          description: 90%
+          icon: Tensorflow/Keras
           icon_pack: fab
         - name: Statistics
           description: 100%
