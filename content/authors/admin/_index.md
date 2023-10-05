@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:arpitjadonamu@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.in/citations?user=F6DEWz0AAAAJ&hl=en&oi=ao
